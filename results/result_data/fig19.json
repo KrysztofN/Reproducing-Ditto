@@ -1,0 +1,1 @@
+{"sample-adaptive": {"tpt": 470700.05, "hr": 0.7998470575900725}, "sample-lru": {"tpt": 396760.9, "hr": 0.7547514132566995}, "sample-lfu": {"tpt": 244265.35, "hr": 0.5935233957661208}, "cliquemap-precise-lru": {"tpt": 268543.9, "hr": 0.6337554120573954}, "cliquemap-precise-lfu": {"tpt": 292138.65, "hr": 0.666465563526086}}
