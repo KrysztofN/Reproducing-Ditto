@@ -52,6 +52,9 @@ python kick-the-tires.py 256 ycsbc
 For the full experiment suite, see `experiments/scripts/README.md` in the Ditto repository.
 
 ---
+[Ditto.pdf](https://github.com/user-attachments/files/26629959/Ditto.pdf)
+
+---
 
 ## Reference
 
