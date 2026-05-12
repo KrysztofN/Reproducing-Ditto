@@ -14,7 +14,7 @@ We reproduced the following aspects of the original paper:
 - **Throughput scalability** - comparing Ditto against CM-LRU, CM-LFU, and Redis as the number of CPU cores increases
 - **Throughput-latency curves** - across YCSB-A, B, C workloads and against Shard-LRU
 - **Adaptive eviction policy** - evaluating hit rates under mixed workloads, varying application mixes, and time-varying workloads using Twitter production traces
-- **Elastic scaling** — comparing how Ditto and Redis handle adding CPU and memory resources at runtime
+- **Elastic scaling** - comparing how Ditto and Redis handle adding CPU and memory resources at runtime
 
 ---
 
